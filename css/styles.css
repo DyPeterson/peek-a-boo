@@ -1,0 +1,32 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#toggleOff {
+  display: none;
+  text-align: center;
+  color: green;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#toggleOn {
+  text-align: center;
+  color: green;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
